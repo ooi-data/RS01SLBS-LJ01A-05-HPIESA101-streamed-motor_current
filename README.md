@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SLBS-LJ01A-05-HPIESA101-streamed-motor_current
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Motor Current Data<br>
+Instrument Group Code: HPIES<br>
