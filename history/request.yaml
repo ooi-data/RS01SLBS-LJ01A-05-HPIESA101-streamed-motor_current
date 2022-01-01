@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SLBS-LJ01A-05-HPIESA101-streamed-motor_current
-last_request: '2021-12-21T22:47:27.740620Z'
+last_request: '2022-01-01T02:09:58.100475Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SLBS-LJ01A-05-HPIESA101-streamed-motor_current/main/history/response.json
 status: discontinued
